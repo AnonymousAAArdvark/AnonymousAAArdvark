@@ -14,7 +14,6 @@ languages and tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-![AnonymousAAArdvark's GitHub stats](https://github-readme-stats.vercel.app/api?username=anonymousaaardvark&show_icons=true&count_private=true) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anonymousaaardvark)](https://github.com/anuraghazra/github-readme-stats)
 
